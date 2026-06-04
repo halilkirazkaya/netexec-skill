@@ -756,7 +756,7 @@ nxc smb <target> -u user -p pass --log results.txt
 # Set: audit_mode = *   (or any character to use as redaction mask)
 ```
 
-## Common Pentest Scenario Example (Chained Workflows)
+## Pentest Scenario Example (Chained Workflows)
 
 ### Initial Recon (No Creds)
 ```bash
